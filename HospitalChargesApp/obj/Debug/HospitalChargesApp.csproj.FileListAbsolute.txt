@@ -1,0 +1,78 @@
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe.config
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.pdb
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\App.g.cs
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp_MarkupCompile.cache
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.g.resources
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.Properties.Resources.resources
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csproj.GenerateResource.cache
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.exe
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.pdb
+C:\Users\Dmitry\Dropbox\cad\softdev\HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csprojAssemblyReference.cache
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe.config
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.pdb
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csprojAssemblyReference.cache
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.baml
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.g.cs
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\App.g.cs
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp_MarkupCompile.cache
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.g.resources
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.Properties.Resources.resources
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csproj.GenerateResource.cache
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.exe
+C:\Users\diman\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.pdb
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe.config
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.pdb
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp_MarkupCompile.cache
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.g.resources
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.Properties.Resources.resources
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.exe
+C:\Users\HP\Downloads\as6_HospitalChargesApp\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.pdb
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe.config
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.pdb
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csprojAssemblyReference.cache
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.baml
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.g.cs
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\App.g.cs
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp_MarkupCompile.cache
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.g.resources
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.Properties.Resources.resources
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csproj.GenerateResource.cache
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.exe
+C:\Users\diman\Downloads\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.pdb
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe.config
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.pdb
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csprojAssemblyReference.cache
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\App.g.cs
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp_MarkupCompile.cache
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.g.resources
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.Properties.Resources.resources
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csproj.GenerateResource.cache
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.exe
+C:\Users\Dmitry\Dropbox\cad\softdev\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.pdb
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe.config
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.exe
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\bin\Debug\HospitalChargesApp.pdb
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp_MarkupCompile.cache
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.g.resources
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.Properties.Resources.resources
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.exe
+C:\Users\HP\Downloads\as6_HospitalChargesApp (1)\as6_HospitalChargesApp\HospitalChargesApp\obj\Debug\HospitalChargesApp.pdb
